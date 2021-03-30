@@ -1,0 +1,399 @@
+
+1.1 - The Zen of Coding
+To allow students time to introduce themselves to one another and the instructional team To confirm that students have completed all required pre-work (software + tools installation) To introduce basic terminal/bash commands To create a basic 
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed871803-4bcb-40c3-9970-ab6c0162f8b9
+
+
+1.2 - Git'n Pro with HTML/CSS
+To understand the value of Git version control To gain initial exposure to the concept of "adding, committing, and pushing" code to GitHub To gain initial exposure to HTML/CSS and how the two are linked using element selectors
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18a57ae2-5fea-45ce-aaed-ab6e0167e87a
+
+1.3 - Heroes of CSS
+To become comfortable working with HTML relative paths To engage in a deep dive of HTML/CSS for layout design and element positioning
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05cabc6f-4675-4e1c-a27c-ab7000e16548
+
+2.1 - Going Live
+To recap the basic topics covered to date To offer a conceptual introduction to CSS reset and downloadable style sheets To work with Google Developer tools for site inspection To utilize Github Pages for website deployment
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=22c9533c-57d6-45aa-be58-ab730112bc93
+
+
+Panopto
+2.2 - Down and Dirty CSS
+To work with CSS properties used for adjusting a website's typography To utilize custom fonts provided from Google Fonts To work with CSS pseudo classes to style elements based on special states To utilize the Bootstrap CSS framework for website development
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c706870-8803-45a6-97c4-ab750183aea1
+
+2.3 - Bootstrap Layouts and Responsive Designs
+To gain a conceptual understanding of the role of grid-based web design in modern web development To utilize the Bootstrap grid system to create complete web layouts To understand the concept of mobile responsive web design and the use of media queries to achieve it
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d1860bc-f371-440b-8958-ab7700ceb623
+
+3.1 - Joys of JavaScript
+To gain a preliminary grasp of JavaScript definitions and of basic syntax. To utilize variables, logging, arrays, and if/else statements to create simple JavaScript applications.
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5c97b89-8f34-4e29-a4c3-ab7a0147b77b
+
+
+3.2 - Jumping for JavaScript
+Define the syntax and uses of a for loop. Demonstrate how to use a for loop. Utilize conditional logic within their functions Construct a rock paper scissors game utilizing for loops, arrays, and conditional logic. To understand the use and syntax of JavaScript's for loops. To use for loops, arrays, and conditional logic to create a rock-paper-scissors game.
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abfc8092-0dbb-4d01-938e-ab7c01204585
+
+3.3 - JavaScript Juggernauts
+To gain an understanding of JavaScript Functions and Objects. To begin utilizing the basic JavaScript learned so far to build simple JavaScript games.
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9be99119-ff10-401b-8f5d-ab7e00c984a2
+
+4.1 - Intro to Web APIs
+Use the console to inspect the window object via this. Use various web APIs to traverse the DOM. Query the DOM for elements by their selector. Use setAttribute() to add styles to specific elements. Create an entire HTML page using only JavaScript. Use timers/intervals to execute code based on some amount of time passing.
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72834cf4-1ebf-40f5-b585-ab82003e8dcd
+
+4.2 - Events and Event Handling
+To use event listeners such as click, keydown, and change. Prevent default form behavior with event.preventDefault(). Stop the propagation of events. Dynamically generate DOM elements whose events are delegated.
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdecb919-b4f8-4c36-955b-ab840033d7fc
+
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91e31425-5579-4333-8cc4-ab85013cd905 (edited) 
+
+4.3
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bbe5637-ee9d-43ca-9699-ab890028f34f
+
+5.1
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74f32eca-6c09-4d19-a2b7-ab8b0036f2fc
+
+
+5.2 - jQuery Jubilee
+To use jQuery DOM manipulation to create simple games. To gain an initial understanding of lexical scope in JavaScript.
+
+5.3 - jQuery Calculator
+Build a semi-complex jQuery calculator application in teams. Complete the JavaScript Checkpoint.
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5369666d-1c29-43ee-bf7c-ab8c014b9516
+
+
+Panopto
+6.1 - Intro to APIs and AJAX
+To introduce the concept and utility of APIs and JSON in web applications To be exposed to a variety of APIs and the process for building endpoint URLs to utilize them To work with the OMDb and Giphy APIs to build data-rich applications
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6136416-52d7-42a0-81c7-ab90002da130
+
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfe5568d-1977-4cff-910d-ab9200286f2e
+
+Panopto
+6.2 - Advanced AJAX
+To solidify understanding of APIs, JSONs, and their roles in full-stack web development To increase comfort working with APIs and AJAX calls in data-rich applications
+
+Stanley Lewis Jr.  7:05 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa4f71d0-b1e4-4082-9147-ab93017acf7d
+
+Panopto
+6.3 - Real-World Api Application Development
+To further build mastery of dynamic element generation and AJAX calls To provide "real-world" application development scenario that requires collaborative coding
+
+Stanley Lewis Jr.  8:26 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d72086a-f53b-4f2d-8129-aadd00fded58
+
+Panopto
+8.2 - Project #1 (Git Awesomeness)
+Learning some GIT
+
+Stanley Lewis Jr.  12:51 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349aee44-5574-43c6-9fbc-ab97004e2feb
+
+Stanley Lewis Jr.  9:10 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91706926-00ac-4e13-b52f-ab9900130035
+
+Panopto
+7.2 - Git Workflow
+Understanding Git Workflow
+
+Stanley Lewis Jr.  12:47 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70b0769d-0c96-442d-abd5-aba101143e73
+
+Panopto
+8.3 - Project-1
+Presentation time :)
+
+Stanley Lewis Jr.  10:15 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=975ef37d-719a-4fa6-acaf-aba500d3d43a
+
+Panopto
+9.1 - Introduction To Nodejs
+Explain the client-server model Run Node.js applications from the command line with arguments Import standard library packages Initialize projects and install third-party packages using npm Build interactive CLI applications with Inquirer
+
+Stanley Lewis Jr.  9:39 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d01957b-8a5e-4ca1-9d5f-aba700e02d9b
+
+Panopto
+9.2 - ES6
+Identify and implement how and when to use arrow functions Identify and implement how and when to use let and const variables Identify and destructuring of arrays, functions and objects in ES6 Identify and implement how and when to use template literals Identify and apply for...of loops Identify and implement rest and spread syntax Identify and apply array methods forEach, filter and map
+
+Stanley Lewis Jr.  9:47 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8720e8e-e745-4495-aeda-aba9001d28f6
+
+Panopto
+9.3 - Asynchronous Javascript
+Describe three approaches for handling asynchronous behavior with JavaScript Utilize the axios library to perform AJAX requests Chain Promises together to perform asynchronous operations in sequence Utilize the Promise constructor to wrap asynchronous behavior in Promise objects. Utilize async/await syntax to write asynchronous code
+
+Stanley Lewis Jr.  11:37 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1898897f-a5fc-43e4-a0c9-abac003b13f2
+
+Panopto
+10.1-Constructors
+Use OOP to create a banking application. Use constructor functions to create new objects. Use object prototypes to add methods to objects.
+
+Stanley Lewis Jr.  10:43 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc117fa5-545f-40c4-a3f6-abae00f1fde3
+
+Panopto
+10.2 - Testing With Jest
+Explain the benefits of test-driven-development Use unit tests before as a way to define code requirements for code that hasn't been written yet Write unit tests for pre-existing JavaScript functions Use mocks to test side effects such as reading/writing to the file system, printing to the console, and AJAX requests Use the Arrange, Act, Assert pattern to structure test code
+
+Stanley Lewis Jr.  11:11 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30a32409-5874-4757-bf5b-abb0003278fe
+
+Panopto
+10.3 - ES6 Classes
+Implement ES6 class syntax to instantiate multiple instances of a single type of object. Construct subclasses that inherit features from a common ancestor class. Demonstrate "thinking in OOP" by using objects to control the flow of action in an application.
+
+Stanley Lewis Jr.  8:21 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dba103df-649d-4ac7-a371-abb300ca81ad
+
+Panopto
+11.1 - Intro To Node Servers
+To gain a conceptual understanding of server-side code. To learn the fundamentals of building a server using plain Node.js to listen and respond to client-side requests.
+
+Stanley Lewis Jr.  3:05 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=915b3f63-ad8a-4dd1-8b9c-abb50138ab28
+
+Panopto
+11.2 - Express Yourself
+To gain a preliminary understanding of the basic elements of an Express server. To gain an initial understanding of Express routing. To build a complete Express-based web application.
+
+Stanley Lewis Jr.  5:24 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c268688b-f64e-4dac-a6bb-abb601605516
+
+Panopto
+11.3 - Express Mini-Project
+To create a real-world application for handling reservations using Node/Express
+
+Stanley Lewis Jr.  12:01 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7761a59-83b3-49fa-af70-aaf701655adc
+
+Panopto
+12.1 - Messing With MySQL
+To have MySQL Workbench or Sequel Pro installed and running on everyone's computers To create a localhost connection to a MySQL server and have everyone successfully connect to it To successfully create, use, and populate a MySQL database with data To successfully create, populate, and select data from a MySQL table
+12:01
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0343ef5f-74d9-48fa-ad4a-aaf900d6a654
+
+Panopto
+12.2 - Node Gets a SQL
+To create a connection to a MySQL database using Node To create, read, update, and delete data from a MySQL database using Node To work with a group in taking a basic concept for a server side application and creating a working prototype for that application within a given time frame
+12:02
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fffa3bc-4d36-4a2c-b14b-abc10040a282
+
+Panopto
+13.1 - I Can Make An App With Some Handlebars
+To send MySQL data from the back-end to the front-end using Express To understand semantic templating using Handlebars To understand the basic syntax for Handlebars-based web applications To create an Express connection to a front-end application which prints data to the screen using Handlebars
+
+Stanley Lewis Jr.  10:36 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75bd1d7f-8295-4586-9ea1-abc300ef775b
+
+Panopto
+13.2 - Bringing It From The Front To The Back
+To use HTML/jQuery GET, POST, PUT, and DELETE commands appropriately To create full-stack web applications that will Create, Read, Update, and Delete data from a MySQL database Students will use use Express.js, MySQL and Handlebars together to create a dynamic application
+
+
+
+
+Stanley Lewis Jr.  1:47 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02d64d3f-afe9-40dd-aeb3-abc5011525be
+
+Panopto
+13.3 - The Power of the ORM
+To create, change, and use a basic ORM to perform CRUD commands on a local MySQL database so as to reduce manual database queries To create an Express Application utilizing the MVC design pattern. The app will be structured in the way Ruby On Rails is To strengthen students' understanding of callbacks so that they will know how to use them in association with an ORM
+
+Stanley Lewis Jr.  11:00 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de50ff23-89fa-4fae-9412-abc800e057c2
+
+Panopto
+14.1 - The Sequel to MySQL
+To introduce Sequelize as a complex tool that simplifies MySQL. To demonstrate the makeup of a Sequelize directory, how to make one, and how to make queries using Sequelize.
+
+Stanley Lewis Jr.  11:23 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b49ada42-a09b-4ac5-8c6b-abca00fab777
+
+Panopto
+14.2 - Getting In The CRUD with Sequelize
+To provide students a refresher on setting up a project to work with Sequelize. To review the creation of models using Sequelize. To review Sequelize CRUD methods introduced in the last class and to introduce methods for updating and deleting database entries. To introduce the concept of validations and how they can be used to further restrict what kind of data can be stored in the database. Students will create a blog app with a content management system that can be used to update its data.
+11:24
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11148e0b-5a49-4543-a2a7-abca00fbe1a3
+
+Panopto
+Office Hours-Docker Overview
+A very high level understanding of Docker / Docker Compose
+
+Stanley Lewis Jr.  12:46 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b18c12a-6dec-47b4-be6a-abcc004ada42
+
+Panopto
+14.3 - Getting Associated with Relations
+To reinforce the concepts covered in the first 2 days, primarily CRUD and model creation with Sequelize. To introduce the concept of relations using Sequelize. To introduce the "include" option for performing joins with our queries. To get students used to looking through Sequelize's documentation for answers to specific questions. Students will create a blog app with a content management system that can be used to update it's data.
+
+Stanley Lewis Jr.  12:57 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4f9c056-d756-49cc-96da-abcc004ab039
+
+Panopto
+15.1 - Project #2 Overview
+
+Stanley Lewis Jr.  12:53 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e1d7bda-82ee-4ae6-95e7-abdd00f1e857
+
+Panopto
+16.3 - Project #2 Presentations
+Students demo the Project #2 applications
+
+Darko Stojanovski  12:44 PM
+Mr. Lewis can you please, post the class video from last night? thanks
+
+Stanley Lewis Jr.  1:21 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=005e3713-21cd-47e4-88ca-abdf00f33ba1
+
+Panopto
+17.1 - Masters of MongoDB
+Identify and explain the differences between SQL and noSQL databases. Install MongoDB and Robo 3T. Create a Mongo database. Perform basic CRUD actions on their Mongo database.
+
+Stanley Lewis Jr.  8:13 PM
+For the students interested in the Algo content early
+
+Basics of Algorithms
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fda26726-8f1e-4659-9751-aa9000e88047
+Sorting Algorithms
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbd79f5-a9c6-4d09-88b9-a9dd0182ec9a
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=817c0c3c-3967-4170-94fe-aa930172a7d3
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76ec40a2-7cd3-425d-910c-aa9301790039
+Big O & Data Structures
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fa2f50b-1078-42ea-b733-aa950177d0dc
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dea0a37-f21f-4151-96b6-aa9501751fd8
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=086204f9-87a6-43dd-8f1c-a9df017b00a4
+
+Stanley Lewis Jr.  12:12 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad9d56d5-2652-4e6b-bae7-abe400440230
+
+Panopto
+17.2 - Riding with Mongoose
+Create a Mongoose schema to dictate rules for their MongoDB data. Create custom methods in Mongoose to set and update data purely on the back end. Implement Mongoose CRUD methods to create, read, update and delete data. Utilize Mongoose's populate method to create relationships between the collections in their database.
+
+Stanley Lewis Jr.  12:24 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef76a6a4-c26f-44e1-aced-abe400446a66
+
+Panopto
+17.3 - IndexedDB
+Explain the pros and cons of storing client side data with cookies and IndexedDB. Request an IndexedDB instance. Create an object store and add data with the add method. Search for an item by keyPath with the get method. Create and search by index with the getAll method. Utilize Cursors to iterate through and update object store data with the update method
+
+Stanley Lewis Jr.  9:48 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dac7292-3d3b-402a-8147-ab480035b5d3
+
+Panopto
+Reactjs Review 01/19/2020
+
+Stanley Lewis Jr.  12:20 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e751c8f-c76b-4379-8080-abe800e2e87c
+
+Panopto
+18.2 - Progressive Web Apps
+Explain the benefits a progressive web app offers a user over a traditional app. Implement and explain the role of a web app manifest. Implement and explain the role of a service worker. Successfully cache and fetch files to deliver them in an offline experience. Install a PWA on both desktop and mobile devices
+
+Stanley Lewis Jr.  6:55 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=177b998e-679e-4274-96ad-abe800e3495b
+
+Panopto
+18.1 - Web Performance
+Articulate the meaning of web performance and how it effects their users. Explain how assets like JavaScript files and images impact the performance of a web page. Use Lighthouse to audit a sites various performance metrics. Use minification to lower JS file sizes. Use the compression npm package to enable gzip compression in their applications Use online image compression to compress image files while retaining image quality. Explain and implement lazy loading into their applications so images are only loaded as needed.
+
+Stanley Lewis Jr.  8:47 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ca62ddd-4b57-4ae6-8d5f-abeb00d8749a
+
+Panopto
+18.3 - Intro To Webpack
+Create a basic Webpack configuration file. Bundle their JavaScript code into a single file. Add Webpack plugins to their Webpack configs. Convert web applications to PWA using Webpack Perform code splitting using webpack.
+
+
+Stanley Lewis Jr.  1:22 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dac7292-3d3b-402a-8147-ab480035b5d3
+
+Panopto
+Reactjs Review 01/19/2020
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e25291e0-1655-4a18-9012-abed0055ea2d
+
+Panopto
+19.1 - Intro to React, Components and JSX
+To begin to feel comfortable building static UIs with JSX. To gain an initial understanding of the component-based paradigm in ReactJS. To dissect and build a few simple examples using ReactJS.
+
+Stanley Lewis Jr.  10:30 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c561a4c0-777f-4dff-9482-abf200ed1748
+
+Panopto
+19.2 - Props, Lists, and Stateful Components
+To deepen understanding of passing props between React components. To gain a firm understanding of the concept of child-parent relationships in React To be able to programmatically render components from an array of data. To introduce the concept of class components and component state.
+
+Stanley Lewis Jr.  11:16 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=180cfabc-9717-4ec9-a5d6-abf500341bd2
+
+Panopto
+19.3 - Forms Conditional Rendering React Router
+To deepen understanding of managing state with React components. To cover conditional rendering React components. To introduce the axios library and the concept of the component lifecycle. To introduce routing with React Router.
+
+Stanley Lewis Jr.  12:43 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2962d4fe-0d6b-4dad-904b-abf6010f8ed6
+
+Panopto
+19.3.2 - Forms, Conditional Rendering React Router
+To deepen understanding of managing state with React components. To cover conditional rendering React components. To introduce the axios library and the concept of the component lifecycle. To introduce routing with React Router.
+12:44
+
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1005e72a-cd56-4c10-a4a7-abf6010fd0cd
+
+Panopto
+20.1 - Introduction to React Hooks
+Articulate the term "effect" in the broader sense of programming. Utilize React's most common built-in Hooks: useState, useEffect, and useContext. Transform a React application that manages state with a class component into an application that uses functional components with React Hooks. Create a custom reusable Hook that follows the 2 rules of Hooks.
+
+
+Stanley Lewis Jr.  1:22 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dac7292-3d3b-402a-8147-ab480035b5d3
+
+Panopto
+Reactjs Review 01/19/2020
+
+
+Panopto
+20.1 - Understanding Mongo Atlas
+Learn how to use get Mongo as a Service via Atlas
+
+Stanley Lewis Jr.  3:47 PM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=122aed20-9b95-4732-967d-abf900d88065
+
+Panopto
+20.2 - The React Context API
+
+Connie Tran  10:33 PM
+https://www.youtube.com/watch?v=tchjAe0udO0&feature=youtu.be
+YouTubeYouTube | JS Kongress
+Dissecting a completely Functional-Reactive JavaScript app | Netta Bondy 
+
+Stanley Lewis Jr.  11:56 AM
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e8bdffe-e934-4651-a3a8-abfb004940ee
+
+Panopto
+21.1 - MERN
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e8bdffe-e934-4651-a3a8-abfb004940ee
+
+21.2 - Final Projects
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ddd6c4b5-7433-4ed6-82ed-abfd0105daf9

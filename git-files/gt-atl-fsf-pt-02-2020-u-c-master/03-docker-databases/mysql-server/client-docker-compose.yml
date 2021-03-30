@@ -1,0 +1,11 @@
+version: '3.1'
+services:
+  client:
+    image: mysql:latest
+    command: mysql -h mysql-server -u root -p
+    volumes:
+     - ${PWD_FOLDER}:/host
+networks:
+  default:
+    external:
+      name: ga-tech
